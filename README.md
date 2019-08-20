@@ -7,7 +7,7 @@ phantasmicmeans - 당연히 String;;; char + int라면 모를까
 
                   자주 쓰는건데 variable + "";  이런 형태로 스트링 변환해서 씀
  
-ImabubblyIron - 오늘 greenrobot꺼 EventBus사용하는데 event날릴때 안에 Toast로 디버깅해보는데 String자리에 int들가있는데 빨간줄 안뜸 글서 시간날림   
-                그래서 String.valueof() 쓰기귀찮아서 ""+int 해보니까 String으로 나오더라고 개꿀딱따구리
+ImabubblyIron 
+- 오늘 greenrobot꺼 EventBus사용하는데 event날릴때 안에 Toast로 디버깅해보는데 String자리에 int들가있는데 빨간줄 안뜸 글서 시간날림 그래서 String.valueof() 쓰기귀찮아서 <span style="color:red"> ""+int 해보니까 String으로 나오더라고</span> 개꿀딱따구리
 
                 
